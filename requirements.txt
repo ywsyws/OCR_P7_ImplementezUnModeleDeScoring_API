@@ -1,0 +1,15 @@
+# General
+numpy
+pandas
+matplotlib
+imblearn
+seaborn
+scikit-learn==1.0.2
+black
+tqdm==4.40.0
+plotly
+# ML model interpretation
+shap
+# API
+flask
+flask-wtf

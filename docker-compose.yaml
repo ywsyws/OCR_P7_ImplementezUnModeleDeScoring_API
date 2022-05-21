@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  app:
+    build: .
+    image: "python3.8-flask:5000"
+    container_name: "OCR_P7_API_public_5030"
+    ports:
+      - "5030:5000"
+    volumes:
+      - .:/app
