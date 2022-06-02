@@ -21,11 +21,11 @@ Développer un algorithme de classification pour classifier la demande en crédi
 - predict_credit_score.py : comporte les fonctions qui prédirent le score crédit et qui plot les graphes pour le dashboard.
 - static/ et templates/ : comporte les elements de front-end.
 
-## 4. Données
+## 5. Données
 [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk/data)
 
 
-## 5. Retours du Jury de Soutenance
+## 6. Retours du Jury de Soutenance
 **Livrable**<br><br>
 <ins>Points forts</ins> :
 - Tous les attendus sont déposés, complets, et répondent aux attentes du projet
